@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>welcome on My New Hugo Site</title><link>http://example.org/tags/welcome/</link><description>Recent content in welcome on My New Hugo Site</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 29 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/welcome/index.xml" rel="self" type="application/rss+xml"/><item><title>welcome</title><link>http://example.org/wiki/welcome/</link><pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate><guid>http://example.org/wiki/welcome/</guid><description>====== Welcome to your new DokuWiki ======
+Congratulations, your wiki is now up and running. Here are a few more tips to get you started.
+Enjoy your work with DokuWiki,\
+&amp;ndash; the developers
+===== Create your first pages =====
+Your wiki needs to have a start page. As long as it doesn&amp;rsquo;t exist, this link will be red: [[:start]].
+Go on, follow that link and create the page. If you need help with using the syntax you can always refer to the [[wiki:syntax|syntax page]].</description></item></channel></rss>
