@@ -1,7 +1,8 @@
 ## Amazon AWS deployment
 
 This is a guide for deploying, configuring and administrating CC
-Repository on Amazon Web Service.
+Repository on Amazon Web Service. 
+Contractual obligations. 
 
 ## Server Architecture
 
@@ -45,11 +46,10 @@ Security group for repository servers load balancer. For each server
 with tuners you'll need to create an inbound rule with its IP as a
 source.
 
-{{<table "table table-striped table-bordered">}}
 | Type       | Ports | Source           |
 | ---------- | ----- | ---------------- |
 | Custom TCP | 3030  | \<servers\_IPs\> |
-{{</table>}}
+
 
 #### cc-web-lb
 
